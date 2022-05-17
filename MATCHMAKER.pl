@@ -37,7 +37,7 @@ use Getopt::Long;
 
 ######Options#####
 #script dir
-my $script_dir = "/home/plantsymbiosis/Desktop/TOOLS/InHouse/MATCHMAKER";
+my $script_dir = "<SET/PATH/TO/WHERE/YOU/HAVE/THIS/SAVED>";
 my $overview = $script_dir."/Pipeline_overview.jpg";
 my $version = "v2022.05.17";
 
