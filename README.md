@@ -30,7 +30,7 @@ Then simply run MATCHMAKER.pl once like the following:
 
      perl <SOME/PATH/TO/MATCHMAKER.pl>
 
-This will check for each dependency and reports to you know if there is anything missing. If miniconda is installed, it will also give you the command to install the missing
+This will check for each dependency and reports to you if there is anything missing. If miniconda is installed, it will also give you the command to install the missing
 package or tool.
 
 
